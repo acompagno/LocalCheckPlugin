@@ -2,6 +2,8 @@ LocalCheckPlugin
 ===
 Gradle plugin that automatically switches between using local and remote dependencies
 
+[![Build Status](https://travis-ci.org/acompagno/LocalCheckPlugin.svg?branch=master)](https://travis-ci.org/acompagno/LocalCheckPlugin)
+
 Usage
 ---
 ```groovy
